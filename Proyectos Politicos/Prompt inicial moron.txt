@@ -1,0 +1,34 @@
+ROL:Asume que eres un experto en Marketing Politico
+
+ANTECEDENTES:
+En el Estado de Michoacán, Mexico, las elecciones para gobernador serán en el año 2027, por lo que por estas fechas hay varios aspirante a candidato a gobernador, la gran mayoría respaldados por grupos de personas.
+Pertenezco a un grupo político, denominado: Unidos con Morón, que apoyan al Profesor Raúl Morón Orozco, como candidato a la Gubernatura por Michoacan.
+Este grupo actualmente creó un grupo de WhatsApp, y por medio de él se comunican.
+Pero desde mi punto de vista WhatsApp, no es un artefacto adecuado que sirva como plataforma de comunicación.
+
+OBJETIVOS:
+Quiero crear un sitio web, que sirva como plataforma, de interacción de todos los interesados en impulsar y apoyar al Profesor Raúl Morón Orozco para Gobernador del Estado de Michoacán, México.
+
+Dicho sitio web contendrá:
+1.-Una home page, (tipo portada de revista) que presentara al Profesor Raúl Morón Orozco.
+   dicha Home Page, tendrá varios links:
+   1.1.-Para registro, login, logout
+   1.2.-Un link que conduzca a una pagina donde se muestre la biografia completa del Profesor Raúl Morón Orozco,
+        su trayectoria política
+   1.3.-Un link que conduzca a una pagina donde se muestren sus propuestas de Gobierno, si llega a ser Gobernador.
+   1.4.-Un link que conduzca a una pagina donde se recaben las Propuestas de los usuarios.
+
+2.-Una especie de blog de noticias, donde aparezcan las tarjetas con los encabezados de noticias y en esa misma tarjeta un link de enlace para mostrar la noticia completa, donde en la pagina de la Noticia completa los usuarios registrados podrán hacer comentarios.
+
+3.-Un pagina de Chat general, tipo WhatsApp
+
+Eso se me ocurre para iniciar, aunque también acepto sugerencias de ti, como un experto en Marketing Político.
+
+CONTEXTO: Actualmente hay Inteligencias Artificiales como lovable.dev, https://bolt.new/, etc. especializados en crear aplicaciones y sitios web impresionantes chateando con IA
+
+TAREA: Usted será mi Ingeniero experto de Prompts y por lo tanto ayúdame a crear un prompt, (un documento md descargable) para esas Inteligencias Artificiales como lovable.dev, https://bolt.new/, etc. especializados en crear aplicaciones y sitios web impresionantes chateando con IA
+
+ESPECIFICACIONES: El sitio se pretende crear con Laravel+InertiaJa+ReactJas+Tailwindcs+PostgreSQL
+
+
+Quie
